@@ -25,11 +25,11 @@ My recent work studies **preference optimization for language agents** and **bla
 I am currently involved in research collaborations on **computer-use agents**, **LLM agent security**, and **reinforcement learning for language agents**.
 
 My Google Scholar profile is available here:  
-<a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID'>
+<a href='https://scholar.google.com'>
 <strong><span id='total_cit'>Google Scholar</span></strong>
 </a>
 &nbsp;
-<a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID'>
+<a href='https://scholar.google.com'>
 <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
@@ -47,12 +47,12 @@ My Google Scholar profile is available here:
 **Direct Multi-Turn Preference Optimization for Language Agents**  
 Li Haoran*, **Xu Minmin***, Zhou Yichen, Chen Zixuan, Gao Wenhao  
 *EMNLP 2024 (Main Conference)*  
-[[PDF]](https://aclanthology.org/2024.emnlp-main.138.pdf) · [[Code]](https://github.com/swt-user/DMPO)
+[[PDF]](https://aclanthology.org) · [[Code]](https://github.com)
 
 **AdvAgent: Controllable Blackbox Red-teaming on Web Agents**  
 Sun Jiacheng, Liu Yutong, He Ziming, Peng Zeyu, Tang Lingbo, **Xu Minmin**, Qiu Han, Luo Bo  
 *ICML 2025*  
-[[Project Page]](https://ai-secure.github.io/AdvAgent/) · [[PDF]](https://arxiv.org/pdf/2410.17401) · [[Code]](https://github.com/AI-secure/AdvAgent)
+[[Project Page]](https://ai-secure.github.io) · [[PDF]](https://arxiv.org) · [[Code]](https://github.com)
 
 ---
 
