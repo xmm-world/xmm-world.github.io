@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a computer science researcher with primary interests in **language agents**, **reinforcement learning**, and **computer-use agents**.  
-My current research focuses on building **robust, controllable, and interpretable agent systems** that can interact with complex environments such as web interfaces and real-world software tools.
+I am an undergraduate researcher in **Computer Science** at the **University of Science and Technology of China (USTC)**.  
+My research interests focus on **language agents**, **reinforcement learning**, and **computer-use agents**, with an emphasis on **multi-turn decision-making**, **agent robustness**, and **security**.
 
-I am particularly interested in **preference optimization**, **agent alignment and security**, and **scalable training strategies** for large language model–based agents, with an emphasis on **practical deployment and evaluation**.
+My recent work studies **preference optimization for language agents** and **black-box red-teaming of web-based agents**, aiming to improve the reliability and controllability of large language model–based agent systems in complex environments.
+
+I am currently involved in research collaborations on **computer-use agents**, **LLM agent security**, and **reinforcement learning for language agents**.
 
 My Google Scholar profile is available here:  
 <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID'>
@@ -34,58 +36,44 @@ My Google Scholar profile is available here:
 ---
 
 ## 🔥 News
-- *2025.03*: &nbsp;Started a new research project on **computer-use agents and agent security**.
-- *2024.10*: &nbsp;Our work on **preference optimization for language agents** was accepted by a top-tier NLP/ML venue.
-- *2024.07*: &nbsp;Joined a collaborative project on **black-box red-teaming of web agents**.
+- *2025.04*: Started research on **computer-use agents** at XLANG Lab, HKU.
+- *2024.12*: Completed a research project on **LLM agent security** with Secure Learning Lab (UIUC & UChicago).
+- *2024.10*: Our work on **direct multi-turn preference optimization for language agents** was accepted to **EMNLP 2024 (Main Conference)**.
 
 ---
 
 ## 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='images/500x300.png' alt="paper" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+**Direct Multi-Turn Preference Optimization for Language Agents**  
+Li Haoran*, **Xu Minmin***, Zhou Yichen, Chen Zixuan, Gao Wenhao  
+*EMNLP 2024 (Main Conference)*  
+[[PDF]](https://aclanthology.org/2024.emnlp-main.138.pdf) · [[Code]](https://github.com/swt-user/DMPO)
 
-**Hierarchical Preference Optimization for Multi-Turn Language Agents**
-
-Author A*, Author B*, **Xu Minmin**
-
-- Proposes a preference-based optimization framework for multi-turn agent interactions.
-- Demonstrates improved robustness and reduced compounding errors in long-horizon agent trajectories.
-
-</div>
-</div>
-
-- **Controllable Black-Box Attacks on Web Agents**, Author A, **Xu Minmin**, *In preparation*
+**AdvAgent: Controllable Blackbox Red-teaming on Web Agents**  
+Sun Jiacheng, Liu Yutong, He Ziming, Peng Zeyu, Tang Lingbo, **Xu Minmin**, Qiu Han, Luo Bo  
+*ICML 2025*  
+[[Project Page]](https://ai-secure.github.io/AdvAgent/) · [[PDF]](https://arxiv.org/pdf/2410.17401) · [[Code]](https://github.com/AI-secure/AdvAgent)
 
 ---
 
 ## 🎖 Honors and Awards
 - *2025*: USTC Fellowship (Level A)  
-- *2024*: Outstanding Student Scholarship  
-- *2023*: Outstanding Student Scholarship  
+- *2024*: Outstanding Student Scholarship, USTC  
+- *2023*: Outstanding Student Scholarship, USTC  
+- *2022*: Outstanding Student Scholarship, USTC  
 
 ---
 
 ## 📖 Education
-- *2021 – 2025*, B.Eng. in Computer Science and Technology, **University of Science and Technology of China**.
-- *2024 – Present*, Visiting / Collaborative Research, focus on language agents and reinforcement learning.
-
----
-
-## 💬 Talks & Presentations
-- *2024*, Poster presentation on **preference optimization for language agents**, NLP/ML workshop.
-- *2023*, Seminar talk on **reinforcement learning for LLM-based agents**.
+- *2021 – 2025*, **B.Eng. in Computer Science and Technology**,  
+  University of Science and Technology of China (USTC).
 
 ---
 
 ## 💻 Research Experience
-- *2025 – Present*, Research Assistant, **Language Agent Research Group**  
-  Focus on computer-use agents and agent alignment.
-- *2024*, Research Assistant, **Secure Learning Lab (collaborative project)**  
-  Focus on LLM agent security and robustness.
+- *2025 – Present*, Research Assistant, **XLANG Lab, The University of Hong Kong**  
+  Research on **computer-use agents**.
+- *2024*, Research Assistant, **Secure Learning Lab (UIUC & UChicago)**  
+  Research on **LLM agent security and robustness**.
+- *2023 – 2024*, Research Assistant, **Lab for Data Science, USTC**  
+  Research on **reinforcement learning and language agents**.
